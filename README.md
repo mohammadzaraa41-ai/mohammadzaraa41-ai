@@ -57,7 +57,7 @@ An enterprise-level logistics and delivery management platform built with modern
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Mohammadzaraa41@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin-username">
