@@ -22,13 +22,13 @@ I craft high-performance, responsive, and secure web applications. My focus is o
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🔒 Private Ecosystem & Active Development
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,tailwind,supabase,vite,git,github,vscode,figma,postman&perline=6" />
-  </a>
-</p>
+<div align="left" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/Active_Private_Projects-8_Repositories-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Private Projects"/>
+</div>
+
+> 💡 **Behind the Scenes:** I am actively architecting and maintaining **8 private production-ready repositories**. These include comprehensive custom systems and secure web applications. While the source code is kept confidential, the dedication, continuous integration, and daily code updates are fully reflected in my contribution graph below.
 
 ---
 
@@ -41,7 +41,17 @@ An enterprise-level logistics and delivery management platform built with modern
 - **Role-Based Access Control (RBAC):** Strict security policies across all system tiers.
 - **Tech Used:** `React 18` · `TypeScript` · `TailwindCSS` · `Supabase`
 
-> 🔗 *Feel free to explore my pinned repositories below to see the source code!*
+> 🔗 *Feel free to explore my pinned repositories below to see the public source code!*
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,tailwind,supabase,vite,git,github,vscode,figma,postman&perline=6" />
+  </a>
+</p>
 
 ---
 
@@ -60,7 +70,7 @@ An enterprise-level logistics and delivery management platform built with modern
   <a href="mailto:Mohammadzaraa41@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/mohammadalzaraa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
